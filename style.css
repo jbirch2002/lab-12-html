@@ -1,0 +1,29 @@
+body 
+{
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: #008000;
+    background-color: #888888;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border: 5px dashed red;
+}
+
+h2, p
+{
+    color: #013220;
+}
+
+#intro
+{
+    border: 1px solid black;
+}
+
+.spotlight
+{
+    background-color: #FEFE22;
+}
